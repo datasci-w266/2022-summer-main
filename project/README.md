@@ -13,13 +13,14 @@ In addition to programming assignments, students will complete a final project t
 The project is expected to be significantly more work than each of the assignments, as you’ll need to do planning and research as well as implement much of the code framework to process data, run experiments, generate plots, etc. How to manage all of this? Start early! (and, ask lots of questions!)
 
 We’ll set several milestones to check in along the way:
-- [2%] **Project proposal**
+- [2%] **Project Proposal**
 - [0%] **Milestone (optional)**
-- [98%] **Writeup and Final Presentation**
+- [98%] **Write-Up and Final Presentation**
 
-### Our expectations of you
 
-As a student in a gradulate level course, you are responsible for seeking out help when your project is stuck.  There is significant support available if you seek it out.  Do not wait for us to provide feedback on deliverables to take action.  If you're looking for a formal way to seek this help, skip down to the Milestone section.
+### Our Expectations of You
+
+As a student in a graduate level course, you are responsible for seeking out help when your project is stuck.  There is significant support available if you seek it out.  Do not wait for us to provide feedback on deliverables to take action.  If you're looking for a formal way to seek this help, skip down to the Milestone section.
 
 ### Rubric Dimensions
 
@@ -75,15 +76,15 @@ The project is very open-ended, but we do require it to be an NLP project. This 
 
 As for scope: an ambitious project for a group of 2-3 would be similar in scope and depth of experiments to a conference paper.
 
-For project ideas, take a look at the final projects from [previous](example-comment-quality.pdf) [semesters](example-grammar.pdf), Stanford [cs224n](https://web.stanford.edu/class/cs224n/index.html) ([2000-2017](http://nlp.stanford.edu/courses/cs224n/)), or for deep-learning projects, [cs224d](http://cs224d.stanford.edu/) ([2015](http://cs224d.stanford.edu/reports_2015.html), [2016](http://cs224d.stanford.edu/reports_2016.html), [2017](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports.html)). A few examples, as a place to start:
+For project ideas, take a look at the final projects from [previous](example-comment-quality.pdf) [semesters](example-grammar.pdf), Stanford [cs224n](https://web.stanford.edu/class/cs224n/index.html) ([2000-2017](http://nlp.stanford.edu/courses/cs224n/)), or for deep-learning projects, [cs224d](http://cs224d.stanford.edu/) ([2015](http://cs224d.stanford.edu/reports_2015.html), [2016](http://cs224d.stanford.edu/reports_2016.html), [2017](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/reports.html),  [2018](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1184/reports.html),  [2019](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1194/reports.html),  [2020](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1204/reports.html),  [2021](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1214/reports.html)). A few examples, as a place to start:
 - Abstractive summarization of news articles
 - Restaurant menu extraction from user reviews
 - Question-answering with neural attention or memory models
 - Image captioning (language generation)
 - Analysis of gender roles or power dynamics in movie dialogues
-- Explore techniques for interpreting “black box” / neural models for language
+- Exploration of techniques for interpreting “black box” / neural models for language
 
-Additionally, we've put some of the top projects from previous semesters in [a drive folder](https://drive.google.com/drive/folders/TBD).
+Additionally, we've put some of the top projects from previous semesters in [a drive folder](https://drive.google.com/drive/folders/1AI2CXrQUt4dN77cA42RYlVGIoyHsT9ON?usp=sharing).  The folder and its contents are available for viewing to anyone with a berkeley.edu email address.
 
 Also see below for NLP conferences - [ACL](https://www.aclweb.org/anthology/events/acl-2020/) and [EMNLP](https://www.aclweb.org/anthology/events/emnlp-2020/) are the top two, and you can find plenty of interesting ideas from the recent proceedings!
 
@@ -102,14 +103,14 @@ Be sure to address:
 - References to _at least_ four papers related to your proposal
 
 You must include four references to relevant papers for the technique and/or dataset you’ll be using. Projects should be well-situated with respect to existing work, and so we do require that references be research papers or technical publications of similar scope. While you may also want to cite reference works, textbooks, or code documentation, these don’t count toward the total. Some resources that may be helpful:
-- (start here) [The Association of Computational Linguistics (ACL) Anthology](http://aclweb.org/anthology/), which indexes papers from most of the top NLP conferences.
+- (start here) [The Association of Computational Linguistics (ACL) Anthology](http://aclanthology.org), which indexes papers from most of the top NLP conferences.
 - The [ACM Digital Library](http://dl.acm.org/) is also a great resource, indexing across a number of CS conferences. In particular, [SigKDD](http://www.kdd.org/) (Knowledge Discovery and Data Mining) and [WSDM](http://www.wsdm-conference.org/) (Web Search and Data Mining) might be useful.
 - [NIPS](https://papers.nips.cc/) and [ICML](http://proceedings.mlr.press/v97/) are the top machine learning conferences; these are good places to look if you want to use neural networks.
 - [Google Scholar](https://scholar.google.com/) and the [arXiv](https://arxiv.org/) are great to find specific papers.
 
-This year’s NLP conferences might be good for inspiration as well, or if you just want a sense of what people in the field are working on: [NAACL](https://www.aclweb.org/anthology/events/naacl-2019/), [ACL](https://www.aclweb.org/anthology/events/acl-2020/), [EMNLP](https://www.aclweb.org/anthology/events/emnlp-2020/).
+This year’s NLP conferences might be good for inspiration as well, or if you just want a sense of what people in the field are working on: [NAACL](https://aclanthology.org/events/naacl-2021/), [ACL](https://aclanthology.org/events/acl-2021/), [EMNLP](https://aclanthology.org/events/emnlp-2021/).
 
-Between Week 2 and Week 4, the instructors will be holding special discussion sections (during OH) to talk about how to search the literature and read NLP papers. Each session will also include a guided discussion of a specific paper. We'll release a schedule and a list of papers early in the semester.
+Between Week 2 and Week 4, the instructors will be holding special discussion sections (during OH) to talk about how to search the literature and read NLP papers. Each session will also include a guided discussion of a specific paper. We'll release a schedule and a list of papers each week in the semester.
 
 Please write your proposal in a Google Doc (shared with comment access to anyone with the link) and submit a link to you proposal via [this form](https://forms.gle/).  We'll provide feedback as in-line comments, which can be more convenient than an email thread.
 _Please no Microsoft Word documents!_

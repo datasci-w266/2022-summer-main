@@ -45,14 +45,14 @@ By the completion of this course, students will be able to:
 
 **Teaching Staff Office Hours**
 
-* **Daniel Cer**: Monday at noon PST
-* **Joachim Rahmfeld**: Wednesday at 5:30pm PST
+* **Daniel Cer**: TBD
+* **Joachim Rahmfeld**: Tuesday at 5:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
-* **Natalie Ahn**: Wednesday at 6pm PST
+* **Natalie Ahn**: Tuesday at 4pm PST
 * **James Kunz**: Thursday immediately after his live session
-* **Mark Butler**: Friday at noon PST
+* **Mark Butler**: Friday at 5pm PST
 * **Gurdit Chahal**: TBD
-* **Sandip Panesar**: Thursday at 1pm PST
+* **Sandip Panesar**: TBD
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -80,8 +80,8 @@ Office hours are for the whole class; students from any section are welcome to a
     <li>Piazza
     <li>Google Cloud
   </ul></td>
-  <td></td>
-  <td></td>
+  <td>May 2</td>
+  <td>May 8</td>
   <td>0%</td>
 </tr>
 <tr>
@@ -253,7 +253,7 @@ We'll update the table below with assignments as they become available, as well 
 
 *Dates are tentative:* Assignments in particular may change topics and dates.  (Updated slides for each week will be posted during the live session week.)
 
-### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/tbd)]
+### Live Session Slides [[available with @berkeley.edu address](https://drive.google.com/drive/folders/1t0LM9rghkcfLUfMjQSknRm1lQNcKz7R2?usp=sharing)]
 
 ### Deliverables
 
@@ -274,8 +274,8 @@ will be released around the last live session of the week and due approximately 
     <li>Piazza
     <li>Google Cloud
   </ul></td>
-  <td></td>
-  <td>May </td>
+  <td>May 2</td>
+  <td>May 8</td>
 </tr>
 
 <tr> <!-- project proposal -->

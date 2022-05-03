@@ -51,8 +51,8 @@ By the completion of this course, students will be able to:
 * **Natalie Ahn**: Tuesday at 4pm PST
 * **James Kunz**: Thursday immediately after his live session
 * **Mark Butler**: Friday at 5pm PST
-* **Gurdit Chahal**: TBD
-* **Sandip Panesar**: TBD
+* **Gurdit Chahal**: Wednesday at 2:30pm PST
+* **Sandip Panesar**: Thursday at 1pm PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 
@@ -417,7 +417,7 @@ will be released around the last live session of the week and due approximately 
   <li>Sentence splitting
   </ul></td>
   <td><ul>
-  <li>Read: <a href="http://u.cs.biu.ac.il/~89-680/gillick2009.pdf" target="_blank">Sentence Boundary Detection and the Problem with the U.S.</a>
+  <li>Read: <a href="https://aclanthology.org/N09-2061.pdf" target="_blank">Sentence Boundary Detection and the Problem with the U.S.</a>
   <li><em>Skim:</em> <a href="http://www.nltk.org/book/ch03.html" target="_blank">NLTK book chapter 3</a> (processing raw text)
   <li><em>Skim:</em> <a href="http://norvig.com/ngrams/ch14.pdf" target="_blank">Natural Language Corpus Data</a> (Peter Norvig) <em>(if you didn't read in Week 3)</em>
   <p>

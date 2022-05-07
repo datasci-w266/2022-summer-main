@@ -89,8 +89,8 @@ Office hours are for the whole class; students from any section are welcome to a
   <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
   Assignment&nbsp;1
   <td><strong>Basic Neural Nets</strong></td>
-  <td></td>
-  <td></td>
+  <td>May 7</td>
+  <td>May 15</td>
   <td>5%</td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ Office hours are for the whole class; students from any section are welcome to a
   Final Project
   <td><strong><a href="../project" target="_blank">Final Project Guidelines</a></strong></td>
   <td></td>
-  <td></td>
+  <td>July 30</td>
   <td>50%</td>
 </tr>
 </table>
@@ -274,8 +274,19 @@ will be released around the last live session of the week and due approximately 
     <li>Piazza
     <li>Google Cloud
   </ul></td>
-  <td>May 2</td>
-  <td>May 8</td>
+  <td>May&nbsp;2</td>
+  <td>May&nbsp;8</td>
+</tr
+
+<tr> <!-- a1 -->
+  <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
+  <td><strong>Assignment&nbsp;1</strong>
+  <ul>
+    <li>Information Theory
+	<li>Probability
+  </ul></td>
+  <td>May&nbsp;7</td>
+  <td>May&nbsp;15</td>
 </tr>
 
 <tr> <!-- project proposal -->

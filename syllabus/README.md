@@ -98,8 +98,8 @@ Office hours are for the whole class; students from any section are welcome to a
   <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
   Assignment&nbsp;2
   <td><strong>Text Classification</strong></td>
-  <td></td>
-  <td></td>
+  <td>May 21</td>
+  <td>Jun 5</td>
   <td>15%</td>
 </tr>
 <tr>
@@ -107,8 +107,8 @@ Office hours are for the whole class; students from any section are welcome to a
   <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
   Assignment&nbsp;3
   <td><strong>Question Answering</strong></td>
-  <td></td>
-  <td></td>
+  <td>Jun 11</td>
+  <td>Jun 26</td>
   <td>15%</td>
 </tr>
 <tr>
@@ -116,8 +116,8 @@ Office hours are for the whole class; students from any section are welcome to a
   <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
   Assignment&nbsp;4
   <td><strong>Multimodal NLP</strong></td>
-  <td></td>
-  <td></td>
+  <td>Jun 25</td>
+  <td>Jul 10</td>
   <td>15%</td>
 </tr>
 <tr>

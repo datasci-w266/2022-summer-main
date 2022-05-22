@@ -45,7 +45,7 @@ By the completion of this course, students will be able to:
 
 **Teaching Staff Office Hours**
 
-* **Daniel Cer**: TBD
+* **Daniel Cer**: Monday at noon PST
 * **Joachim Rahmfeld**: Tuesday at 5:30pm PST
 * **Mike Tamir/Paul Spiegelhalter**: Wednesday immediately after the live session
 * **Natalie Ahn**: Tuesday at 4pm PST
@@ -86,7 +86,7 @@ Office hours are for the whole class; students from any section are welcome to a
 </tr>
 <tr>
   <td>
-  <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
+  <!-- <strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>  -->
   Assignment&nbsp;1
   <td><strong>Basic Neural Nets</strong></td>
   <td>May 7</td>
@@ -95,7 +95,7 @@ Office hours are for the whole class; students from any section are welcome to a
 </tr>
 <tr>
   <td>
-  <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
+  <!-- <strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>  -->
   Assignment&nbsp;2
   <td><strong>Text Classification</strong></td>
   <td>May 21</td>
@@ -104,7 +104,7 @@ Office hours are for the whole class; students from any section are welcome to a
 </tr>
 <tr>
   <td>
-  <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
+  <!-- <strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>  -->
   Assignment&nbsp;3
   <td><strong>Question Answering</strong></td>
   <td>Jun 11</td>
@@ -113,7 +113,7 @@ Office hours are for the whole class; students from any section are welcome to a
 </tr>
 <tr>
   <td>
-  <!-- <strong><a href="../assignment/a0" target="_blank">Assignment&nbsp;0</a></strong>  -->
+  <!-- <strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>  -->
   Assignment&nbsp;4
   <td><strong>Multimodal NLP</strong></td>
   <td>Jun 25</td>
@@ -282,12 +282,22 @@ will be released around the last live session of the week and due approximately 
   <td><strong><a href="../assignment/a1" target="_blank">Assignment&nbsp;1</a></strong>
   <td><strong>Assignment&nbsp;1</strong>
   <ul>
-    <li>Information Theory
-	<li>Probability
+    <li>Neural Networks
   </ul></td>
   <td>May&nbsp;7</td>
   <td>May&nbsp;15</td>
 </tr>
+
+<tr>  <!-- a2 -->
+  <td><strong><a href="../assignment/a2" target="_blank">Assignment&nbsp;2</a></strong>
+  <td><strong>Assignment 2</strong>
+  <ul>
+    <li>Text Classification
+  </ul></td>
+  <td></td>
+  <td>Jun&nbsp;5</td>
+</tr>
+
 
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>

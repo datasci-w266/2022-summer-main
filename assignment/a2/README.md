@@ -1,7 +1,7 @@
 # Assignment 2: Text Classification With Various Neural Networks
 
 This assignment consists of one notebook:
-* [NNBasics](NNBasics.ipynb), Neural Network Text Classification in Keras and HuggingFace
+* [Text_classification.ipynb](Text_classification.ipynb), Neural Network Text Classification in Keras and HuggingFace
 * [answers](answers) file where you'll put all your answers
 
 You may want to review the notebook for [lesson 3](../../materials/lesson_notebooks/lesson_3_adding_RNNs_and_attention_to_classification_notebook.ipynb).

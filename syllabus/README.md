@@ -52,7 +52,7 @@ By the completion of this course, students will be able to:
 * **James Kunz**: Thursday immediately after his live session
 * **Mark Butler**: Friday at 5pm PST
 * **Gurdit Chahal**: Wednesday at 2:30pm PST
-* **Sandip Panesar**: Thursday at 1pm PST
+* **Sandip Panesar**: Saturday at 9am PST
 
 Office hours are for the whole class; students from any section are welcome to attend any of the times above.
 

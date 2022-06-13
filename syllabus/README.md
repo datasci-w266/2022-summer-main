@@ -166,7 +166,6 @@ All students —undergraduate, graduate, professional full time, part time, law,
 We encourage studying in groups of two to four people. This applies to working on homework, discussing labs and projects, and studying. However, students must always adhere to the UC Berkeley Code of Conduct (http://sa.berkeley.edu/code-of-conduct ) and the UC Berkeley Honor Code (https://teaching.berkeley.edu/berkeley-honor-code ). In particular, all materials that are turned in for credit or evaluation must be written solely by the submitting student or group. Similarly, you may consult books, publications, or online resources to help you study. In the end, you must always credit and acknowledge all consulted sources in your submission (including other persons, books, resources, etc.)
 
 
-
 ## Final Project
 *See the [Final Project Guidelines](../project/)*
 
@@ -294,10 +293,9 @@ will be released around the last live session of the week and due approximately 
   <ul>
     <li>Text Classification
   </ul></td>
-  <td></td>
+  <td>May&nbsp;21</td>
   <td>Jun&nbsp;5</td>
 </tr>
-
 
 <tr> <!-- project proposal -->
   <td><strong><a href="../project/#project-proposal" target="_blank">Project&nbsp;Proposal</a></strong>
@@ -308,6 +306,17 @@ will be released around the last live session of the week and due approximately 
   <td>June&nbsp;11</td>
 </tr>
 
+<tr> <!-- a3 -->
+  <td><strong><a href="../assignment/a3" target="_blank">Assignment&nbsp;3</a></strong>
+  <td><strong>Assignment 3</strong>
+  <ul>
+    <li>Multiclass Classification
+    <li>Summarization
+	<li>Question Answering
+  </ul></td>
+  <td>June&nbsp;11</td>
+  <td>June&nbsp;26</td>
+</tr>
 
 
 <tr><!--- Project Reports -->

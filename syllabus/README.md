@@ -318,6 +318,15 @@ will be released around the last live session of the week and due approximately 
   <td>June&nbsp;26</td>
 </tr>
 
+<tr> <!-- a4 -->
+  <td><strong><a href="../assignment/a4" target="_blank">Assignment&nbsp;4</a></strong>
+  <td><strong>Assignment 4</strong>
+  <ul>
+    <li>Image Captioning
+  </ul></td>
+  <td></td>
+  <td>July&nbsp;17</td>
+</tr>
 
 <tr><!--- Project Reports -->
   <td><strong><a href="../project/#final-submission" target="_blank">Project&nbsp;Reports</a></strong>

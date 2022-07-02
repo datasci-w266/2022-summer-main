@@ -1,0 +1,101 @@
+# Write your short answers in this file, replacing the placeholders as appropriate.
+# This assignment consists of 1 parts for a total of 19 points.
+# For numerical answers, copy and paste at least 5 significant figures.
+# - Image Captioning (19 points)
+
+
+
+###################################################################
+###################################################################
+## Image Captioning (19 points)
+###################################################################
+###################################################################
+
+
+# ------------------------------------------------------------------
+# | Section (A): Data Exploration (9 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/3): How many images are in the training set?
+image_captioning_a_1: 
+- your answer
+
+# Question 2 (/3): To the nearest integer, how many captions are there per image?
+image_captioning_a_2: 
+- your answer
+
+# Question 3 (/3): How many unique tokens are there after splitting captions on words only?
+image_captioning_a_3: 
+- your answer
+
+
+# ------------------------------------------------------------------
+# | Section (B): Show and Tell (8 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/1): What parts of the CNN were trained?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_1: 
+ - The kernels within the CNN
+ - The top feed forward layer of the CNN
+ - All of the above
+
+# Question 2 (/1): What was the biggest concern when deciding?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_2: 
+ - Training time
+ - Overfitting
+
+# Question 3 (/1): How was the encoded image representation input into the decoder?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_3: 
+ - As the initial hidden vector
+ - As the first word embedding input
+
+# Question 4 (/1): Which metric did the authors use to determine success?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_4: 
+ - BLEU
+ - ROUGE
+
+# Question 5 (/1): What beam width is equivalent to one where you select the highest probability word in each decoding step?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_5: 
+ - 0
+ - 1
+ - infinite
+
+# Question 6 (/1): How many points of quality did using a beam search of 20 provide vs. a greedy search?
+image_captioning_b_6: 0
+
+# Question 7 (/1): Where did the authors get their word embeddings from?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_7: 
+ - BERT
+ - Learning them from scratch
+ - Semi-supervised pre-training
+
+# Question 8 (/1): Approximately how often were there novel sentences in the top-15 generated text candidates, despite overfitting issues?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_b_8: 
+ - 20%
+ - 50%
+ - 80%
+
+
+# ------------------------------------------------------------------
+# | Section (C): Show, Tell and Attend (2 points)  | 
+# ------------------------------------------------------------------
+
+# Question 1 (/1): What is the attention over?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_c_1: 
+ - The raw pixels
+ - Multiple independently trained CNNs over an object classification task, each yielding an annotation
+ - Vectors are extracted from a layer of the CNN with an receptive field (image region contributing to it) smaller than the full image
+
+# Question 2 (/1): What do the figures with highlight shading represent in Figures 2, 3 and 5?
+# (This question is multiple choice.  Delete all but the correct answer).
+image_captioning_c_2: 
+ - The part of the image contributing to the word currently being decoded
+ - The part of the image most contributing to the generated caption
